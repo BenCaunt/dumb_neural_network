@@ -6,3 +6,5 @@
 <p>I had a lot of inspiration from watching this video and it is also where the data and a few other things come from this video: https://www.youtube.com/watch?v=LSr96IZQknc</p>
 
 NN.py Does not work but NN_sklearn.py Does!
+
+Pre-recs:  Numpy and sk-learn
